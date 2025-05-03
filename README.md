@@ -1,4 +1,4 @@
-### React Portfolio
+# React Portfolio
 
 A personal portfolio website built using React and Vite, designed to showcase projects, skills, and experiences. This project leverages modern web development tools to ensure a fast and responsive user experience.
 
