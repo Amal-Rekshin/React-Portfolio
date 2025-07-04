@@ -4,7 +4,7 @@ A personal portfolio website built using React and Vite, designed to showcase pr
 
 ## 🚀 Live Demo
 
-Check out the live version of the portfolio here: amal-rekshin.github.io/React-Portfolio
+- 🔗 **Live Demo Available:** [View Here](https://prosonalportfolio.netlify.app)
 
 ## 🧰 Tech Stack
 
